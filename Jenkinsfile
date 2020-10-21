@@ -79,11 +79,11 @@ def checkout(){
                 ]],
                 doGenerateSubmoduleConfigurations: false, 
                 extensions: [],
-                gitTool: 'git', 
+                gitTool: 'git', https://github.com/germangarzonm/calculadoraAPI.git
                 submoduleCfg: [], 
                 userRemoteConfigs: [[
                     credentialsId: 'github_personal', 
-                    url: 'https://github.com/JULIANCHO923/CalculadoraAPI'
+                    url: 'https://github.com/germangarzonm/calculadoraAPI.git'
                 ]]
             ])
 }
